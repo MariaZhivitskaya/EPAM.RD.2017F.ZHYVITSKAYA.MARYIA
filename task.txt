@@ -1,0 +1,7 @@
+- an opportunity to save the state of a service to the XML-file (serialization)
+- save the name of the file for serialization in AppConfig
+- logging (Console TraceListener)
+- add master and slaves (methods Add, Delete, Search for master, master should send notifications to slaves;  method Search for slaves)
+- save the number of slaves to the XML-file
+- each service should have it's own domain
+- an opportunity to switch between logging modes in AppConfig (+: enable logging; -: disable logging)
